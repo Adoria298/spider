@@ -1,3 +1,3 @@
-# wdsl
+# spider
 ---
-A DSL for the Web, written in flask.
+The spider that sits at the center of a Flask based web app.
