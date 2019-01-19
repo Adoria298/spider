@@ -1,7 +1,7 @@
 #! /usr/bin/python3
-
 import sys
 import worker_funcs
+
 # ensures there is a source argument
 if len(sys.argv) != 2:
 	print(f"usage: {sys.argv[0]} <src.dsl>")
